@@ -6,3 +6,4 @@ FRONTEND/dist/
 **/__pycache__/
 *.pyc
 .env
+FRONTEND/.bolt/
